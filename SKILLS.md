@@ -26,7 +26,7 @@ Inventario de las skills disponibles en la sesión de Claude Code (21-10-2026), 
 | `webapp-testing` | Pruebas web con Playwright | Probar interfaces, capturas de pantalla, depurar |
 | `xlsx` | Crear y editar Excel o CSV | Fórmulas, limpieza de datos, gráficos en planillas |
 
-## 2. OmniRoute (45 skills, instaladas desde diegosouzapw/OmniRoute; guardadas en el repositorio `omniroute-skills`)
+## 2. OmniRoute (45 skills, instaladas desde diegosouzapw/OmniRoute, incluidas en este repositorio)
 
 Sirven para operar el servidor OmniRoute, un gateway que enruta peticiones a varios proveedores de IA (por defecto en `localhost:20128`).
 
